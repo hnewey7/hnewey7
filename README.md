@@ -4,8 +4,9 @@ Third-year Integrated Design Engineering student at the University of Bath.
 
 ## About Me
 * Third-year student at __University of Bath__.
+* Software Developer for __Mercor__.
 * Previously worked as __Junior Software Dev__ at __Envisics__.
-* Working on __TBRe Automation Tools__.
+* Working on __LLM Code Parser__.
 * Reading __Design Web APIs by Brenda Jin, Saurabh Sahni & Amir Shevat__.
 
 ## GitHub Stats
